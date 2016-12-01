@@ -1,0 +1,7 @@
+14:26:06 **** Incremental Build of configuration Debug for project Lesson1 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 --std=c++11 -o "src\\Lesson1.o" "..\\src\\Lesson1.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson1.exe "src\\Lesson1.o" -lmingw32 -lSDL2main -lSDL2 
+
+14:26:07 Build Finished (took 1s.721ms)
+

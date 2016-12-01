@@ -1,0 +1,61 @@
+14:23:48 **** Incremental Build of configuration Debug for project Lesson0 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lesson0.o" "..\\src\\Lesson0.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson0.exe "src\\Lesson0.o" -lmingw32 -lSDL2main -lSDL2 
+Info: Nothing to build for Lesson0
+14:24:22 **** Clean-only build of configuration Debug for project Lesson0 ****
+rm -rf Lesson0.exe src/Lesson0.o src/Lesson0.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\TDM-GCC-64\bin;\bin;C:/Program Files/Java/jre1.8.0_101/bin/server;C:/Program Files/Java/jre1.8.0_101/bin;C:/Program Files/Java/jre1.8.0_101/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2015b\runtime\win64;C:\Program Files\MATLAB\R2015b\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\TDM-GCC-64\bin;C:\Users\Thomas\AppData\Local\Microsoft\WindowsApps;;C:\Eclipse_TJW\eclipse]
+
+14:24:22 **** Clean-only build of configuration Debug for project Lesson0 ****
+14:24:24 **** Rebuild of configuration Debug for project Lesson0 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lesson0.o" "..\\src\\Lesson0.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson0.exe "src\\Lesson0.o" -lmingw32 -lSDL2main -lSDL2 
+Info: Nothing to build for Lesson0
+14:24:38 **** Clean-only build of configuration Debug for project Lesson0 ****
+rm -rf Lesson0.exe src/Lesson0.o src/Lesson0.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\TDM-GCC-64\bin;\bin;C:/Program Files/Java/jre1.8.0_101/bin/server;C:/Program Files/Java/jre1.8.0_101/bin;C:/Program Files/Java/jre1.8.0_101/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2015b\runtime\win64;C:\Program Files\MATLAB\R2015b\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\TDM-GCC-64\bin;C:\Users\Thomas\AppData\Local\Microsoft\WindowsApps;;C:\Eclipse_TJW\eclipse]
+
+14:24:39 **** Clean-only build of configuration Debug for project Lesson0 ****
+14:24:41 **** Rebuild of configuration Debug for project Lesson0 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lesson0.o" "..\\src\\Lesson0.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson0.exe "src\\Lesson0.o" -lmingw32 -lSDL2main -lSDL2 
+Info: Nothing to build for Lesson0
+Info: Nothing to build for Lesson0
+14:25:23 **** Clean-only build of configuration Debug for project Lesson0 ****
+rm -rf Lesson0.exe src/Lesson0.o src/Lesson0.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\TDM-GCC-64\bin;\bin;C:/Program Files/Java/jre1.8.0_101/bin/server;C:/Program Files/Java/jre1.8.0_101/bin;C:/Program Files/Java/jre1.8.0_101/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2015b\runtime\win64;C:\Program Files\MATLAB\R2015b\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\TDM-GCC-64\bin;C:\Users\Thomas\AppData\Local\Microsoft\WindowsApps;;C:\Eclipse_TJW\eclipse]
+
+14:25:23 **** Clean-only build of configuration Debug for project Lesson0 ****
+14:25:30 **** Rebuild of configuration Debug for project Lesson0 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lesson0.o" "..\\src\\Lesson0.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson0.exe "src\\Lesson0.o" -lmingw32 -lSDL2main -lSDL2 
+14:25:47 **** Clean-only build of configuration Debug for project Lesson0 ****
+rm -rf Lesson0.exe src/Lesson0.o src/Lesson0.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\TDM-GCC-64\bin;\bin;C:/Program Files/Java/jre1.8.0_101/bin/server;C:/Program Files/Java/jre1.8.0_101/bin;C:/Program Files/Java/jre1.8.0_101/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2015b\runtime\win64;C:\Program Files\MATLAB\R2015b\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\TDM-GCC-64\bin;C:\Users\Thomas\AppData\Local\Microsoft\WindowsApps;;C:\Eclipse_TJW\eclipse]
+
+14:25:47 **** Clean-only build of configuration Debug for project Lesson0 ****
+14:25:51 **** Rebuild of configuration Debug for project Lesson0 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lesson0.o" "..\\src\\Lesson0.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson0.exe "src\\Lesson0.o" -lmingw32 -lSDL2main -lSDL2 
+Info: Nothing to build for Lesson0
+14:26:06 **** Incremental Build of configuration Debug for project Lesson1 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\MinGW\\include\\SDL2" "-IC:\\Users\\Thomas\\Documents\\Programming\\SDL2_Tutorial\\Lessons\\include" -O0 -g3 -Wall -c -fmessage-length=0 --std=c++11 -o "src\\Lesson1.o" "..\\src\\Lesson1.cpp" 
+g++ "-LC:\\MinGW\\lib" -o Lesson1.exe "src\\Lesson1.o" -lmingw32 -lSDL2main -lSDL2 
